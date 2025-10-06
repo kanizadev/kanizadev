@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=kanizadev&color=ff69b4&style=for-the-badge" />
 <h3 align="justify">Hi there! I’m Kaniza — a mobile app and website developer, as well as a graphic designer. When I’m not coding, you’ll find me sketching ideas in Figma, creating visuals in Photoshop or Illustrator, or organizing my life in Notion.</h3>
 <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
@@ -41,8 +42,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=037979" />
  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider2.png" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3" alt="Kanizadev's GitHub stats" width="50%" " /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3" alt="Kanizadev's GitHub stats" width="50%" " /></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
 
