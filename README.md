@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=kanizadev&color=ff69b4&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=kanizadev&color=037979&style=for-the-badge" />
 <h3 align="justify">Hi there! I’m Kaniza — a mobile app and website developer, as well as a graphic designer. When I’m not coding, you’ll find me sketching ideas in Figma, creating visuals in Photoshop or Illustrator, or organizing my life in Notion.</h3>
 <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
