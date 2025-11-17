@@ -16,13 +16,13 @@
  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Tech%20Stack&fontSize=28&fontColor=037979" /></br>
 
   <img src="https://img.shields.io/badge/Dart-037979?style=for-the-badge&logo=dart&logoColor=white" alt="Dart badge" />
-  <img src="https://img.shields.io/badge/Flutter-44958E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge"/>
-  <img src="https://img.shields.io/badge/android-7EB9A7?style=for-the-badge&logo=android&logoColor=white" alt="Android badge"/></br>
-  <img src="https://img.shields.io/badge/HTML5-037979?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge"/>
-  <img src="https://img.shields.io/badge/CSS3-44958E?style=for-the-badge&logo=css&logoColor=white" alt="CSS3 badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-7EB9A7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge"/></br>
-  <img src="https://img.shields.io/badge/Photoshop-037979?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop badge"/>
-  <img src="https://img.shields.io/badge/Illustrator-44958E?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator badge"/>
+  <img src="https://img.shields.io/badge/Flutter-44958E?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />
+  <img src="https://img.shields.io/badge/android-7EB9A7?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" /></br>
+  <img src="https://img.shields.io/badge/HTML5-037979?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-44958E?style=for-the-badge&logo=css&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/JavaScript-7EB9A7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript badge" /></br>
+  <img src="https://img.shields.io/badge/Photoshop-037979?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop badge" />
+  <img src="https://img.shields.io/badge/Illustrator-44958E?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator badge" />
   <img src="https://img.shields.io/badge/figma-7EB9A7?style=for-the-badge&logo=figma&logoColor=white" alt="Figma badge"/>
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/divider.png">
 </p>
@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=037979" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3&rank_icon=github" alt="Kanizadev's GitHub stats" width="50%" " /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=1&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3&rank_icon=github" alt="Kanizadev's GitHub stats" width="50%" " /></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
   
 </p>
@@ -44,7 +44,7 @@
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Featured%20Repositories&fontSize=28&fontColor=037979" />
-
+ 
   <a href="https://github.com/kanizadev/p001">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p001&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
   </a>
