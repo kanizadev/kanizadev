@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=037979" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=1&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3&rank_icon=github" alt="Kanizadev's GitHub stats" width="50%" " /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=true&hide_border=false&title_color=c2f5d3&border_radius=1&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3&rank_icon=github" alt="Kanizadev's GitHub stats" width="50%" " /></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
   
 </p>
