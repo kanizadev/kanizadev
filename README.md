@@ -69,49 +69,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p006&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
   </a>
   
-  <a href="https://github.com/kanizadev/p007">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p007&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p008">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p008&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p009">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p009&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p010">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p010&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p011">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p011&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p0012">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p012&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p013">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p013&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p014">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p014&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-  
-  <a href="https://github.com/kanizadev/p015">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p015&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-  <a href="https://github.com/kanizadev/p016">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanizadev&repo=p016&border_radius=0&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7" width="50%"/>
-  </a>
-
-
-
-
 </p>
 
 <p align="center">
