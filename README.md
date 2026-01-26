@@ -35,8 +35,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=037979" />
   <img src="https://github-readme-stats.vercel.app/api?username=Kanizadev&show_icons=false&hide_border=false&title_color=c2f5d3&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&text_color=c2f5d3&rank_icon=github" alt="Kanizadev's GitHub stats" width="50%" " /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=kanizadev&theme=git-dark&border_radius=0&background=45%2C037979%2C7EB9A7&border=C2F5D3&stroke=C2F5D3&ring=C2F5D3&fire=C2F5D3&currStreakNum=C2F5D3&sideNums=C2F5D3&currStreakLabel=C2F5D3&sideLabels=C2F5D3&dates=C2F5D3&excludeDaysLabel=C2F5D3" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanizadev&layout=compact&hide_border=false&border_radius=0&border_color=c2f5d3&bg_color=DEG,037979,44958E,7EB9A7&title_color=c2f5d3&icon_color=7EB9A7&text_color=c2f5d3" alt="Top Languages" width="50%" /></br>
+  <img src="https://nirzak-streak-stats.vercel.app?user=kanizadev&border_radius=0&background=45%2C037979%2C7EB9A7&border=C2F5D3&stroke=C2F5D3&ring=C2F5D3&fire=C2F5D3&currStreakNum=C2F5D3&sideNums=C2F5D3&currStreakLabel=C2F5D3&sideLabels=C2F5D3&dates=C2F5D3&excludeDaysLabel=C2F5D3" alt="GitHub Streak" width="50%" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/main/divider.png" width="100%" />
