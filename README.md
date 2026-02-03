@@ -39,7 +39,8 @@
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (3).png">
   <a href="https://instagram.com/kanizadev"><img src="https://img.shields.io/badge/Instagram-453269?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/kanizadev"><img src="https://img.shields.io/badge/Twitter-8965b1?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.com/users/948224120716402708"><img src="https://img.shields.io/badge/Discord-9a79af?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/948224120716402708"><img src="https://img.shields.io/badge/Discord-9a79af?style=for-the-badge&logo=discord&logoColor=white" /></a></br>
+  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/logo.png">
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (2).png">
 </p>
 
@@ -47,3 +48,4 @@
  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Thanks%20for%20visiting!%20Have%20a%20nice%20day!&fontSize=50&fontColor=8965b1&fontAlignY=45" />
  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/footer.png" />
 </p>
+
