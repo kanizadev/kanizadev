@@ -28,9 +28,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=8965b1" />
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (3).png">
-  <img  src="https://readme-stats-fork-mauve.vercel.app/api/?username=kanizadev&theme=synthwave" width="50%">
-  <img  src="https://github-readme-streak-stats-five-roan.vercel.app/?user=kanizadev&theme=synthwave" width="50%" >
-  <img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=kanizadev&theme=synthwave" width="50%">
+  <img  src="https://readme-stats-fork-mauve.vercel.app/api/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af&rank_icon=github" width="50%">
+  <img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af" width="50%">
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (2).png">
 </p>
 
@@ -48,5 +47,6 @@
  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&text=Thanks%20for%20visiting!%20Have%20a%20nice%20day!&fontSize=50&fontColor=8965b1&fontAlignY=45" />
  <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/footer.png" />
 </p>
+
 
 
