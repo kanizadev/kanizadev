@@ -28,8 +28,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=GitHub%20Analytics&fontSize=28&fontColor=8965b1" />
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (3).png">
-  <img  src="https://readme-stats-fork-mauve.vercel.app/api/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af&rank_icon=github" width="50%">
-  <img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af" width="50%">
+  <img  src="https://readme-stats-fork-mauve.vercel.app/api/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=1.0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af&rank_icon=github" width="50%">
+  <img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=kanizadev&title_color=cdbdd7&text_color=cdbdd7&border_radius=1.0&border_color=cdbdd7&bg_color=DEG,453269,8965b1,9a79af" width="50%">
   <img src="https://raw.githubusercontent.com/kanizadev/kanizadev/refs/heads/main/assets/div (2).png">
 </p>
 
